@@ -915,18 +915,6 @@ public class AnimalCrossingGrow {
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		// failScreen (실패 화면) 구성 
 		this.failScreen.setBounds(0, 0, 1183, 813);
 		this.frame.getContentPane().add(this.failScreen);
