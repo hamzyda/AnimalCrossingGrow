@@ -1,3 +1,4 @@
+//animal.java
 package animalCrossingGrow;
 
 import java.util.Random;

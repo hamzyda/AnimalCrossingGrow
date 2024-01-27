@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class player {
     Random random = new Random();
-//    public static String successOrNot = "";
+//    public static String successOrNot = ""
     public int MissionNum = 0;
     public String mission = "";
     public String missionAnswer = "";

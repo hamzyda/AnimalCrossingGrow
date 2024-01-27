@@ -1,5 +1,5 @@
 package animalCrossingGrow;
-
+//main
 public class Main {
     AnimalCrossingGrow AnimalCrossingGrow = new AnimalCrossingGrow();
 

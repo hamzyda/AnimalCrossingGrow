@@ -24,8 +24,7 @@ public class AnimalCrossingGrow {
 	animal animal = new animal();
 	//JFXPanel panel = new JFXPanel();
 	//Media m = new Media("file:/c:/나비보벳따우.WAV");
-	//MediaPlayer p = new MediaPlayer(m);
-	
+	//MediaPlayer p = new MediaPlayer(m)
 	static Boolean isOpenCheerUpScreen = false;
 	static Boolean isOpenWarningScreen = false;
 	static String selectedAnimal = "";
